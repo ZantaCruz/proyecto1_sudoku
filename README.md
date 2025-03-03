@@ -74,7 +74,7 @@ Ingresa la fila (0-8):
 ## 🚀 Cómo Ejecutar los Juegos
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+   git clone https://github.com/ZantaCruz/proyecto1_sudoku.git
    ```
 2. Navega al directorio del proyecto:
    ```bash
@@ -98,3 +98,5 @@ Este proyecto está bajo la licencia MIT - Puedes usarlo libremente. 😊
 
 ## Autor
 📌 **By:** Deyton Riascos Ortiz
+            Danna Isabella Mosquera
+            Samuel Izquierdo Bonilla
